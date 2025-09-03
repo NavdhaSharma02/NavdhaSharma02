@@ -21,7 +21,7 @@ Experimenting with Google API to scrape video URLs (does this even count as a pr
 Predicted whether a patient would be readmitted within 30 days.  
 
 **Excel Store Project**  
-Got my hands dirty with Excel — data cleaning + analysis for real.  
+Got my hands dirty with Excel => data cleaning + analysis .  
 
 ---
 
