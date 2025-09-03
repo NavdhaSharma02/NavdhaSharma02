@@ -1,16 +1,28 @@
-## Hi there 👋
+#  Navdha Sharma
 
-<!--
-**NavdhaSharma02/NavdhaSharma02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently a third year at VIT Vellore. Figuring out both life and code together.
+
+---
+###  What I am working on these days :/
+**Emotion Detection**
+Just playing with NLP and detecting emotions fro text.
+**Ai_Poem_generator**
+A poem generator project which didnt work as it was supposed to.
+**Youtube_URL_Scraping**
+Just scraping URLS with Google API .Does it even count as a project?
+**Readmission_Analysis**
+Tried to predict if patient would be readmittied in 30 days.
+**Excel_Store_Project**
+Learned to use Excel for real.
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NavdhaSharma02&show_icons=true&theme=tokyonight)
+
+---
+
+
+
