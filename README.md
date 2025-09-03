@@ -22,6 +22,7 @@ Predicted whether a patient would be readmitted within 30 days.
 
 **Excel Store Project**  
 Got my hands dirty with Excel — data cleaning + analysis for real.  
+
 ---
 
 
