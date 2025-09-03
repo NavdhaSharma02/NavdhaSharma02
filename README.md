@@ -12,10 +12,10 @@ Currently a third year at VIT Vellore. Figuring out both life and code together.
 Playing around with NLP to detect emotions from text.  
 
 **AI Poem Generator**  
-Tried making an AI poet… let’s just say it didn’t rhyme with success 😅.  
+Tried making an AI poet… let’s just say it didn’t rhyme with success.  
 
 **YouTube URL Scraping**  
-Experimenting with Google API to scrape video URLs (does this even count as a project? 🤔).  
+Experimenting with Google API to scrape video URLs (does this even count as a project? ).  
 
 **Readmission Analysis**  
 Predicted whether a patient would be readmitted within 30 days.  
