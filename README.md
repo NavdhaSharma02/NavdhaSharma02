@@ -26,7 +26,7 @@ Got my hands dirty with Excel => data cleaning + analysis .
 ---
 
 
-### 📊 GitHub Stats
+### GitHub Stats T_T
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NavdhaSharma02&show_icons=true&theme=tokyonight)
 
 ---
