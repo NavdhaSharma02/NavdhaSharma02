@@ -1,4 +1,4 @@
-#  Hello, I am Navdha Sharma
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&lines=Hi+I'm+Navdha;CSE+Student;AI+%26+ML+Explorer)](https://git.io/typing-svg)
 
 
 ### About me :)
@@ -31,6 +31,9 @@ Got my hands dirty with Excel => data cleaning + analysis .
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavdhaSharma02&layout=compact&theme=tokyonight)
+
+
+
 
 
 
