@@ -1,10 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&font=Pacifico&lines=Hi+I'm+Navdha;CSE+Student;)](https://git.io/typing-svg)
+<h1 align="center">Hi,I am Navdha</h1>
+<h3 align="center">AI Enthusiast • Software Engineer • </h3>
 
-
-### 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒 :)
-𝒞𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝒶 𝓉𝒽𝒾𝓇𝒹 𝓎𝑒𝒶𝓇 𝒶𝓉 𝒱𝐼𝒯 𝒱𝑒𝓁𝓁𝑜𝓇𝑒. 𝐹𝒾𝑔𝓊𝓇𝒾𝓃𝑔 𝑜𝓊𝓉 𝒷𝑜𝓉𝒽 𝓁𝒾𝒻𝑒 𝒶𝓃𝒹 𝒸𝑜𝒹𝑒 𝓉𝑜𝑔𝑒𝓉𝒽𝑒𝓇.  
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI+%26+Machine+Learning+Explorer;Deepfake+Detection+Researcher;Building+Distributed+Systems;Always+Learning+Something+New" />
+  </a>
+</p>
 
 ---
+
+## About Me
+
+```python
+class NavdhaSharma:
+
+    education = "B.Tech CSE"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Distributed Systems",
+        "Computer Vision"
+    ]
+
+    languages = ["Python", "Java", "C++", "JavaScript","C"]
+
+    frameworks = [
+        "TensorFlow",
+        "Flask",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Astro",
+        "Vue.js"
+    ]
+
+   
 
 
 
