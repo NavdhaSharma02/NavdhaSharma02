@@ -73,14 +73,6 @@
 
 ---
 
-## `> activity.graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavdhaSharma02&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## `> commit_message.txt`
 
 ```text
